@@ -1,7 +1,7 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Rosanne+Danora+Vaz!;AI+Research+Developer;Full-Stack+Engineer;Mental+Health+Tech+Advocate;" />
-  
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Think+Code+Repeat💡" />
+
 </div>
 
 # 👋 Hi, I'm Rosanne Danora Vaz
@@ -73,17 +73,47 @@ Always chasing that “aha!” moment - one bug, one fix, and one breakthrough a
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 **My GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosanneVaz&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosanneVaz&layout=compact&langs_count=8&theme=aura&hide_border=true"/>
+  
+  <!-- Stats Row 1 -->
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosanneVaz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosanneVaz&layout=compact&langs_count=8&theme=aura_dark&hide_border=true&bg_color=00000000"/>
+      </td>
+    </tr>
+  </table>
+
+
+  ## 🏅 **GitHub Achievements**
+
+<div align="center">
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=RosanneVaz&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+  
+</div>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosanneVaz&theme=aura-dark&hide_border=true&background=00000000" />
+  
+  <!-- Activity Graph -->
+  [![Rosanne's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RosanneVaz&theme=react-dark&bg_color=00000000&hide_border=true)](https://github.com/RosanneVaz)
+  
 </div>
 
-<!-- Streak stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosanneVaz&theme=aura&hide_border=true" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=RosanneVaz&color=blueviolet&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/RosanneVaz?style=social)
+![Repositories](https://badges.strrl.dev/repos/RosanneVaz?color=000000&style=flat-square)
+
 </div>
+
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
