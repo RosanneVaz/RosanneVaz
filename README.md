@@ -1,3 +1,9 @@
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Rosanne+Danora+Vaz!;AI+Research+Developer;Full-Stack+Engineer;Mental+Health+Tech+Advocate;" />
+  
+</div>
+
 # 👋 Hi, I'm Rosanne Danora Vaz
 
 **`Computer Science Engineering Student | Full-Stack Developer | AI Enthusiast`**
@@ -67,14 +73,17 @@ Always chasing that “aha!” moment - one bug, one fix, and one breakthrough a
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-<!-- Replace 'yourusername' with your actual GitHub username -->
-![Rosanne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RosanneVaz&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosanneVaz&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosanneVaz&layout=compact&langs_count=8&theme=aura&hide_border=true"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RosanneVaz&layout=compact&theme=radical&hide_border=true)
-
----
+<!-- Streak stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosanneVaz&theme=aura&hide_border=true" />
+</div>
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
