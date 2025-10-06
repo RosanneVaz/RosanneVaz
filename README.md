@@ -88,6 +88,7 @@ Always chasing that “aha!” moment - one bug, one fix, and one breakthrough a
       </td>
     </tr>
   </table>
+</div>
 
 
   ## 🏅 **GitHub Achievements**
