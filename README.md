@@ -8,7 +8,7 @@ Always chasing that “aha!” moment - one bug, one fix, and one breakthrough a
 
 ## 🚀 What I'm Up To
 
-- 🎓 Final year B.E. in Computer Science & Engineering (CGPA: 9.55)
+- 🎓 Final year B.E. in Computer Science & Engineering 
 - 🔭 Currently working on **deep learning projects and full-stack applications**
 - 🌱 Learning **AWS Cloud, Advanced React, and Machine Learning Operations**
 - 👯 Looking to collaborate on **open-source projects and AI-driven applications**
