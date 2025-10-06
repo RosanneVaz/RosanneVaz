@@ -77,35 +77,20 @@ Always chasing that “aha!” moment - one bug, one fix, and one breakthrough a
 
 <div align="center">
   
-  <!-- Stats Row 1 -->
+
   <table>
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosanneVaz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+      <td align="center">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RosanneVaz&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=FF69B4" />
       </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosanneVaz&layout=compact&langs_count=8&theme=aura_dark&hide_border=true&bg_color=00000000"/>
+      <td align="center">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosanneVaz&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4" />
       </td>
     </tr>
   </table>
-</div>
-
-
-  ## 🏅 **GitHub Achievements**
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=RosanneVaz&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
   
 </div>
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosanneVaz&theme=aura-dark&hide_border=true&background=00000000" />
-  
-  <!-- Activity Graph -->
-  [![Rosanne's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RosanneVaz&theme=react-dark&bg_color=00000000&hide_border=true)](https://github.com/RosanneVaz)
-  
-</div>
+
 
 <div align="center">
 
